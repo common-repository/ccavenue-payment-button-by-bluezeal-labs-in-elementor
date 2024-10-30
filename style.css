@@ -1,0 +1,13 @@
+.ele_cc_ave_icon::after {
+    content: "";
+    height: 28px;
+    width: 50%;
+    display: block;
+    background-image: url('./images/ccavenue_bz.svg');
+    background-size: 80%;
+    background-color: #aaaaaa4f;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto;
+    border-radius: 5px;
+}
